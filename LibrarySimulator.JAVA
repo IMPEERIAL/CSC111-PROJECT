@@ -5,7 +5,7 @@
 
   
  
- // GitHub Repository Link: https:
+ // GitHub Repository Link: https://github.com/IMPEERIAL/CSC111-PROJECT
  
  */
 package project;
@@ -178,4 +178,5 @@ public class LibrarySimulator {
         input.close();  
     }  
 }
+
 
